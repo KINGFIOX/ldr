@@ -1,0 +1,2 @@
+# ldr
+LINUX DEVICE DRIVERS notes
